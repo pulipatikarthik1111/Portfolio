@@ -1,6 +1,7 @@
 # Josh Braun — LinkedIn posts
 
-Profile (reference): `https://www.linkedin.com/in/josh-braun`
+Profile (reference): `https://www.linkedin.com/in/josh-braun`  
+Website: `https://joshbraun.com/`
 
 ## Posts to review
 
@@ -9,4 +10,9 @@ Profile (reference): `https://www.linkedin.com/in/josh-braun`
 
 - 2026-04-14 (added): 4-T framework walkthrough (Trigger / Think / Third-party / Talk)  
   `https://www.linkedin.com/posts/josh-braun_lets-write-a-good-cold-email-that-sounds-activity-7172931819909169153-2rGj`
+
+## Collection notes
+
+- Prefer posts where Josh rewrites real emails or shows message before/after.
+- Tag for synthesis: `anti_pitch`, `questions`, `reframes`, `objection_handling`.
 

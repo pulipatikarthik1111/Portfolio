@@ -16,3 +16,13 @@ This folder is for transcript capture and notes from YouTube videos related to c
 
 For the full dashboard + tooling plan, see `research/sources.md`.
 
+## Current dashboard expert video indexes (10)
+
+- `josh-braun-youtube-channel-index.md`
+- `will-aitken-video-index.md`
+- `tito-bohrt-youtube-channel-index.md`
+- `saastr-youtube-channel-index.md`
+- `steli-efti-youtube-channel-index.md`
+- `alex-berman-my-entire-cold-email-workflow-finally-revealed.md` (example video file)
+- `jason-lemkin-we-replaced-our-sales-team-with-20-ai-agents.md` (example video file)
+

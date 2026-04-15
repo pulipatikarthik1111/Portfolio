@@ -15,3 +15,16 @@ Naming convention: `first-last.md`
 
 For the full dashboard + tooling plan, see `research/sources.md`.
 
+## Current dashboard expert files (10)
+
+- `josh-braun.md`
+- `will-aitken.md`
+- `tito-bohrt.md`
+- `jack-reamer.md`
+- `jason-lemkin.md`
+- `chris-walker.md`
+- `steli-efti.md`
+- `michael-maximoff.md`
+- `collin-cadmus.md`
+- `sujan-patel.md`
+
