@@ -5,4 +5,5 @@ This folder contains useful references that don’t fit cleanly into a single ex
 ## Index
 
 - `sendr-b2b-cold-email-templates-proven-examples-for-saas-sales-2026-04-07.md`
+- `dashboard-b2b-saas-cold-outreach-pipeline-10-expert-sources.md`
 
